@@ -1,6 +1,5 @@
-=====================
-==== Even Or Odd=====
-=====================
+Even Or Odd
+
 
 Objective:
 This application is designed to detect if the entered number by the user is even or odd.
